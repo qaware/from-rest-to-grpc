@@ -3,7 +3,7 @@ module github.com/qaware/from-rest-to-grpc/rest-beer-service
 go 1.17
 
 require (
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	google.golang.org/protobuf v1.27.1
 )
 
